@@ -1,0 +1,4 @@
+[2026-07-10 13:14:22] ERROR Connection failed: unable to reach remote service
+[2026-07-10 13:14:22] WARN Retrying connection in 5 seconds
+[2026-07-10 13:14:27] ERROR Timeout while establishing TLS handshake
+[2026-07-10 13:14:27] INFO Client disconnected from gateway
