@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+*.db
+*.json
+chroma_bug_index/
+existing_logs/
+__pycache__/
+.env
