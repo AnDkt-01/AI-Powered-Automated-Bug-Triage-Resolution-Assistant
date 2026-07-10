@@ -1,0 +1,2 @@
+# AI-Powered-Automated-Bug-Triage-Resolution-Assistant
+Assistant using RAG and LLMs to automate software bug triage. Mapping incoming errors to historical records, it generates root cause hypotheses and troubleshooting steps. This streamlines support workflows, resolves minor issues instantly, and reduces manual investigation time for engineering teams, turning tribal knowledge into a structured asset.
