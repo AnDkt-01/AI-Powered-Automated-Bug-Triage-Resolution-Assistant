@@ -1,4 +1,7 @@
-To run this application, the following dependencies are required.
+
+****To run this, you will need an OpenAI API key (or similar) and a local Vector store.***
+
+**To run this application, the following dependencies are required.**
   streamlit: For the web application interface.
   langchain & langchain-openai: For RAG and embedding orchestration.
   chromadb: For local vector storage.
